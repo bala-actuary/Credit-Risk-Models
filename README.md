@@ -1,2 +1,3 @@
 # Credit-Risk-Models
-Sample models to implement credit risk in Python
+
+Firat pilot atempt to create models to implement credit risk in Python
